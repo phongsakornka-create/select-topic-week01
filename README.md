@@ -6,7 +6,7 @@
 เก็บงานสั่งงาน
  
 ## Owner
-ลิงก์ไปยังไฟล์ Myname.md
+[Myname.md](https://github.com/phongsakornka-create/select-topic-week01/blob/main/Myname.md)
  
 ## Course
 ชื่อวิชาและภาคการศึกษา
